@@ -1,6 +1,6 @@
 ## Welcome to HuaQ's tech blog
 YI GE CAI JI WANG HUA QIN
-
+In this blog, I'll put some solutions to errors I met, meanwhile, I'll share some bands' information. :)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
