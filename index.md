@@ -1,4 +1,4 @@
-## Welcome to HuaQ's tech blog
+## Welcome to Huaqin's tech blog
 YI GE CAI JI WANG HUA QIN
 
 In this blog, I'll put some solutions to errors I met, meanwhile, I'll share some bands' information. :)
